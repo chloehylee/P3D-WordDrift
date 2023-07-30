@@ -2,7 +2,7 @@
 Project: WordDrift
 Group Members: Jake, Melanie, Chloe and Grace
 
-Purpose of project: Midterm Project for ICS4U
+Purpose of project: Midterm Project for ICS4U. Word puzzle game based off of Typeshift.
 Version or date: 11/8/2021
 How to start this project: Press the enter button or click on the play button
 User instructions: Instructions could be accessed in the game.
